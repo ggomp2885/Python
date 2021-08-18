@@ -8,3 +8,5 @@ def adding_function(number):
     if number < 0:
         raise ValueError("number must be postive")
     return number + 5
+
+# mock comment

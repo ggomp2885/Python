@@ -5,7 +5,7 @@ from math_calculations import adding_function
 
 def test_math():
     """ensures the math of the adding_function is working"""
-    assert adding_function(5) == 10
+    assert adding_function(5) == 11
     assert adding_function(10) == 15
 
 

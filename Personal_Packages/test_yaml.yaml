@@ -1,0 +1,13 @@
+microservices:
+   - app: user-authentication
+     port: 9000
+     version: 1.0
+
+
+famous_players:
+  - name: Joel Embiid
+    number: 21
+  - name: Allen Iverson
+    number: 3
+  - name: Julius Erving
+    number: 6
